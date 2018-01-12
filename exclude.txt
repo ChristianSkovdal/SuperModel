@@ -1,0 +1,6 @@
+Supermodel.sln
+Supermodel.v12.suo
+packages\
+Supermodel\bin\
+Supermodel\obj\
+Supermodel\properties\
